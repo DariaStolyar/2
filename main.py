@@ -31,7 +31,7 @@ class Example(QWidget):
         qp.setBrush(QColor(255, 255, 0))
         qp.drawEllipse(200, 60, 120, 120)
         qp.setBrush(QColor(255, 255, 0))
-        qp.drawEllipse(0, 400, 150, 150)
+        qp.drawEllipse(0, 400, 155, 155)
         qp.setBrush(QColor(255, 255, 0))
         qp.drawEllipse(400, 40, 100, 100)
         qp.setBrush(QColor(255, 255, 0))
