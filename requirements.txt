@@ -1,0 +1,5 @@
+sys
+sqlite3
+uic
+QApplication
+QMainWindow
